@@ -1,4 +1,4 @@
-This project compares the performance of various classification algorithms — including Random Forest, Decision Tree, Logistic Regression, and a Neural Network — on a credit card fraud detection dataset comprising over 1.2 million transactions and 23 features. The goal is to evaluate and contrast the effectiveness of these models in detecting fraudulent activities within highly imbalanced data.
+This project compares the performance of various classification algorithms — including Random Forest, Decision Tree, Logistic Regression, and a Neural Network — on a airline customers satisfaction detection dataset comprising over 103k consumers and 24 features. The goal is to evaluate and contrast the effectiveness of these models.
 
 **Key Features:**
 - Dataset: 1.2M+ rows, 23 features (including class imbalance typical of fraud detection)
